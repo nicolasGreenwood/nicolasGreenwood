@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nicolasGreenwood.
-- 👀 I’m interested in programming, writing poetry, learning about Arabic culture and discovering diverse kinds of music. 
-- 🌱 I’m currently learning front-end web development.
+- 👋 Hi, I’m Nicolas Greenwood.
+- 👀 I’m interested in programming, writing poetry and amateur filmmaking. 
+- 🌱 I’m currently learning front-end web development, including libraries like Three.js, Firebase and Bootstrap.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: (still thinking of one)
 
 <!---
 nicolasGreenwood/nicolasGreenwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
